@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://lele4d.pages.dev/sitemap.xml
